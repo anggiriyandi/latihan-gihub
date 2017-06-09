@@ -6,4 +6,6 @@ PERINTAH DASAR COMMANDS GIT
 4. git pull
 5. git push
 6. git status
+7. git checkout
+
 
