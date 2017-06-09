@@ -5,3 +5,5 @@ PERINTAH DASAR COMMANDS GIT
 3. git commit
 4. git pull
 5. git push
+6. git status
+
